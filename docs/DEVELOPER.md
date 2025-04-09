@@ -1,7 +1,7 @@
 # Building and Testing Angular CLI
 
 ## Installation
-
+## Installation
 To get started locally, follow these instructions:
 
 1. If you haven't done it already, [make a fork of this repo](https://github.com/angular/angular-cli/fork).
